@@ -6,6 +6,6 @@
 
 [下载](https://github.com/UPCUnofficial/KMS/archive/master.zip)，解压，双击 `KMS.bat`
 
-# 鸣谢
+## Author
 
 [@Andy Liu](https://github.com/andyliu24)
